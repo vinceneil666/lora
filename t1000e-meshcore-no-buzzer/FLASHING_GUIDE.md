@@ -1,3 +1,5 @@
+## THIS IS UNTESTED - UNVERIFIED - NO GUARENTEES ! :) ##
+
 # T1000-E Custom Firmware — Build & Flashing Guide
 
 This firmware is a modified build of MeshCore with the **buzzer permanently disabled**.
